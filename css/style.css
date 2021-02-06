@@ -162,5 +162,6 @@ img{
 /**footer**/
 .footer{
     background-color: var(--color-oscuro);
-    width: 100%;
+    margin-top: 4rem;
+    padding-bottom: 1rem;
 }
